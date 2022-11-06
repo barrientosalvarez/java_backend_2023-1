@@ -6,6 +6,6 @@ Based on the development of assignment 3, do the following:
 
 by the endpoints.
 
-* Update the category driver from the previous assignment so that the endpoints respond as specified in the endpoint document,
+* Update the category driver from the previous assignment so that the endpoints respond as specified in the 
 
-i.e., no longer have present example data and use the methods implemented in the category service.
+endpoint document, i.e., no longer have present example data and use the methods implemented in the category service.
