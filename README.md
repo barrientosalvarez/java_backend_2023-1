@@ -1,1 +1,1 @@
-# java_backend_2023-1
+# Assignment #3: API structure generation.
