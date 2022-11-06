@@ -7,14 +7,14 @@ Starting from the implementation of the updated Product API from assigment 4, th
     * ExceptionHandler
     * ApiResponse
 
-* Update the returning objects in the signatures of the Service Category methods, so that the methods that require it 
+* Update the returning objects in the signatures of the Service Category methods, so that the methods that require
 
-will respond with an ApiResponde instead of a String.
+it  will respond with an ApiResponde instead of a String.
 
-* Update the Category Controller endpoints to give successful and unsuccessful responses according to the endpoints category
+* Update the Category Controller endpoints to give successful and unsuccessful responses
 
-format.
+according to the endpoints category format.
 
-* Finally, the Category ServiceImp must also be updated so that it also gives successful and unsuccesful responses according
+* Finally, the Category ServiceImp must also be updated so that it also gives successful
 
-to the endpoint format.
+and unsuccesful responses according to the endpoint format.
